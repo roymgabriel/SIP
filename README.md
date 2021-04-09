@@ -8,6 +8,8 @@ The aim of this study is to provide a biblical perspective to the world of machi
 # Projects
 In this project, you will find templates to build each algorithm mentioned in the SIP. Feel free to play around with the parameters and obtain better results.
 
+Furthermore, if you would like to be biblically challenged and understand the design behind each algorithm, please see <SIP.pdf>.
+
 ## Regression: Real Estate Data
 ## Classification: Breast Cancer Data
 ## Cluster: Mall Customers Data
